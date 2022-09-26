@@ -1,0 +1,12 @@
+.review-area {
+    border-bottom: 1px dashed #23238b;
+    border-top: 1px dashed #23238b;
+}
+
+.review-description img {
+    width: 50px;
+}
+
+.star img {
+    width: 15px;
+}
